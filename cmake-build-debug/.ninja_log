@@ -1,0 +1,13 @@
+# ninja log v5
+7	1014	7284410770386629	CMakeFiles/Prvni_kroky.dir/main.cpp.obj	7118701d6de81ce9
+57	1342	7281837134698711	CMakeFiles/Prvni_kroky.dir/Pole_Struktury.cpp.obj	b5f94993ecefba58
+1407	1687	7284415420626018	Prvni_kroky.exe	290e45719efcc75b
+78	2573	7282657060196636	CMakeFiles/Prvni_kroky.dir/bubbleSort.cpp.obj	a0413f817b079991
+6	1337	7281837134638735	CMakeFiles/Prvni_kroky.dir/Promenne.cpp.obj	9e7c11e08072f385
+107	1362	7281837134914490	CMakeFiles/Prvni_kroky.dir/Vetveni_Cykly.cpp.obj	520cc4176f5c132e
+5	2557	7282657060005866	CMakeFiles/Prvni_kroky.dir/selectionSort.cpp.obj	c2e160e2cd989d55
+1	230	7360955825320742	build.ninja	28bbb4cbafc63f3b
+123	680	7282657041284020	CMakeFiles/Prvni_kroky.dir/mergeSort.cpp.obj	4d1e285551a4e6a3
+97	680	7282657041284020	CMakeFiles/Prvni_kroky.dir/binarySearch.cpp.obj	6649395ee1234adc
+110	682	7282657041304008	CMakeFiles/Prvni_kroky.dir/quickSort.cpp.obj	f726f0b578eb68e6
+6	1407	7284415417864987	CMakeFiles/Prvni_kroky.dir/binaryTree.cpp.obj	2dbc49cdfe961b16

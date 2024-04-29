@@ -1,0 +1,3 @@
+H:/C++/Prvni_kroky/cmake-build-debug/CMakeFiles/Prvni_kroky.dir
+H:/C++/Prvni_kroky/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/C++/Prvni_kroky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
